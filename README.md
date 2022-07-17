@@ -1,1 +1,19 @@
 # Electron
+
+
+commands in Addon folder
+
+1. npm install
+2. node index
+
+First command will compile all c++ files one by one and generates a .node file in build folder.
+Second command will execute node script, which calls c++ function and print output on console.
+
+
+Commands in Root folder
+
+1. npm install
+2. npm start
+
+install electron app
+start app
